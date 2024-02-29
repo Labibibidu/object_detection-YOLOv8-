@@ -1,4 +1,4 @@
-## object_detection-YOLOv8
+# object_detection-YOLOv8
 此專案使用YOLOv8對car.mp4影片中的車輛進行辨識，並設計一個counter紀錄車子的數量
 
 # 整體大致流程:
